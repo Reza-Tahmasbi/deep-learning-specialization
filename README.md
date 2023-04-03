@@ -13,3 +13,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 ## Course 2 : [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]
 
 [Certificate Of Completion](https://www.coursera.org/account/accomplishments/verify/XV4VUGMF4738)
+
+## Course 3 : [Structuring Machine Learning Projects]
+
+[Certificate Of Completion](https://coursera.org/share/3645092cd4b4e2453a9552243cf7f7e2)
